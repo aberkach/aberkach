@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aberkach
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning C programming lunguage
-- 📫 How to reach me berkachfatah@gmail.com
+- 📫 How to reach me : berkachfatah@gmail.com
 
 <!---
 aberkach/aberkach is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
