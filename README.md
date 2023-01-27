@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @aberkach
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning C programming lunguage
-- 📫 How to reach me : berkachfatah@gmail.com
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/abberkac?1337Badge=off" alt="abberkac's 42 stats" /></a>
 
 <!---
 aberkach/aberkach is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
