@@ -1,6 +1,5 @@
 <h1 style="align:center"></Abdo_Berkach></h1>
 
-<a href=#><img src="contributions.svg"></a>
 
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/abberkac?1337Badge=off" alt="abberkac's 42 stats" /></a>
 
